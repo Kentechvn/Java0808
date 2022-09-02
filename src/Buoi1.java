@@ -2,11 +2,16 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class Buoi1 {
-    public static void main(String[] args) {
-        //      int c = -5;
-        //      int d = 5;
-        //     int result = --c + c++ - d-- + d-- + ++c + c-- - d++ + c++ - d--;
-        //      System.out.println("Gia tri cua ket qua: " + result);
+<<<<<<< HEAD
+    public static void main(String[] args)
+    //thay doi them
+    //hello
+  //      int c = -5;
+  //      int d = 5;
+   //     int result = --c + c++ - d-- + d-- + ++c + c-- - d++ + c++ - d--;
+  //      System.out.println("Gia tri cua ket qua: " + result);
+=======
+>>>>>>> 39394c786189eb0770bc131379ff24ce2f791a7d
 
         //   int a = 5;
         //   int b = 3;
