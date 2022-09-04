@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
 
 public class Buoi1 {
     public static void main(String[] args) {
@@ -46,13 +46,13 @@ int main() {
 	return 0;
 }
         */
-   // Double a = 7.5;
-    //Double b = 3.8;
-    //System.out.println("Area = " + (a * b));
-      //  char c = 'x';
-    //    System.out.println(c);
-       // char d = 'x';
-       // System.out.println(d);
+        // Double a = 7.5;
+        //Double b = 3.8;
+        //System.out.println("Area = " + (a * b));
+        //  char c = 'x';
+        //    System.out.println(c);
+        // char d = 'x';
+        // System.out.println(d);
 /*
         long a = 384847522; //long là kểu dài hơn int
         long b = 988347273;
@@ -64,8 +64,9 @@ Hoặc    int a = 384847522;
 
  */
 
-   // boolean b = true;
-    // System.out.println(b);
+        // boolean b = true;
+        // System.out.println(b);
+        // Buổi 8:
 /* Cách 1: tạo ra và truyền phần tử cho mảng
     String[]arrNames= {"Teo","Ti","Tun","Lan","Mai"};
     // System.out.println("Kich thuoc cua mang la " + arrNames.length);
@@ -75,9 +76,41 @@ Hoặc    int a = 384847522;
        // System.out.println(arrNames[1]);
         arrNames[1] = "Ti Updated"; // "Gán lại giá trị của index 1 khác"
         System.out.println(arrNames[1]);
+        // Cách 2: Tạo ra mảng nhưng chỉ biết số lượng
+        // String[] arrnames = new String[10];
+        */
+
+/*
+        // for (int i = 0; i < 10; i++) {
+        //    System.out.println(i);
+
+        for (int i = 9; i >= 0; i--) {
+            System.out.println(i);
 
  */
-        // Cách 2: Tạo ra mảng nhưng chỉ biết số lượng
-        // String[] arrnames = new String[10]
+        /*
+
+        // 1 - 100
+        // chia hết cho 2
+        // i % 2 phải nhỏ hơn 0
+        for (int i = 1; i <= 100; i++) {
+            boolean((i % 2) = 0)
+            System.out.println(i);
+            */
+
+        // for (int i = 0; i <= 100; i++) {
+        //    if (i % 2 == 0)
+        //   System.out.println(i);
+
+        // Mảng:
+        int []arrnumber = {1,2,5,9,23,25,35,37};
+        //Tìm số lớn nhất
+        // Tìm số nhỏ nhất là số lẻ
+
+        //length i++ ; print i. Vị trí 0- cuối trừ cho số trước, lớn hơn 0
+
+
+
     }
 }
+
